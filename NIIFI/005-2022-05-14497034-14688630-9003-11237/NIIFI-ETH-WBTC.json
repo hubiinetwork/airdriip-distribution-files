@@ -1,0 +1,94 @@
+{
+  "amount": "265090",
+  "l1StartBlock": "14497034",
+  "l1EndBlock": "14688630",
+  "l2StartBlock": "9003",
+  "l2EndBlock": "11237",
+  "apportion": [
+    {
+      "wallet": "0xc5e71cf35f4689d760bf9b0bfe49ca280effe09a",
+      "weight": "6498097359775602",
+      "portion": "10482861243081442415"
+    },
+    {
+      "wallet": "0xf7eea9316ef65b9644cea56ed191df259723f57c",
+      "weight": "0",
+      "portion": "0"
+    },
+    {
+      "wallet": "0x77cf26dccbcd73beef4a3c3e2a0b336968554f84",
+      "weight": "69628851209436492",
+      "portion": "112326661995241649934"
+    },
+    {
+      "wallet": "0xfbd431706498d51b6f028623bdbb2af9b874fe38",
+      "weight": "1207522454784710",
+      "portion": "1947999489784549350"
+    },
+    {
+      "wallet": "0xdfc89a1f0848c412b5fb684442e03a0ec411e424",
+      "weight": "0",
+      "portion": "0"
+    },
+    {
+      "wallet": "0xf63155a644e3dabf7a59a12ba4799c065ed7381d",
+      "weight": "0",
+      "portion": "0"
+    },
+    {
+      "wallet": "0xbef716e7fbc844020925dc372879becd2f932bf9",
+      "weight": "4148679401890090",
+      "portion": "6692732980772968870"
+    },
+    {
+      "wallet": "0x1a382a2cd140dd57244565db491ed7ccc8330c37",
+      "weight": "0",
+      "portion": "0"
+    },
+    {
+      "wallet": "0x9c90562b8283623b2636630ae7cc6b61d68b49ff",
+      "weight": "28217353541914184",
+      "portion": "45520801774671138783"
+    },
+    {
+      "wallet": "0x45be10ac67c83516a712c34c6e90b22c2f408b7e",
+      "weight": "0",
+      "portion": "0"
+    },
+    {
+      "wallet": "0x95880f2e70203f759168665feb6948e81fe5df77",
+      "weight": "1055263446642068",
+      "portion": "1702372198133190982"
+    },
+    {
+      "wallet": "0x4676d6f83f6a318b65310765675ac4959e0a530c",
+      "weight": "590351358742492",
+      "portion": "952366675308762597"
+    },
+    {
+      "wallet": "0x9246f4c0acdd2556c2cb8005cbf36572a88ca444",
+      "weight": "42672825148297642",
+      "portion": "68840659059520179753"
+    },
+    {
+      "wallet": "0x8c36c05bc5fbee577670a3ea9764aeb8f07e27d5",
+      "weight": "0",
+      "portion": "0"
+    },
+    {
+      "wallet": "0x01f9f828cc42742702373d332b75ccad01f32e83",
+      "weight": "7449231870889758",
+      "portion": "12017250549901572187"
+    },
+    {
+      "wallet": "0xc31bcb6ef79314029bbd2531d3475b93ea3c1076",
+      "weight": "590975103856300",
+      "portion": "953372913460806091"
+    },
+    {
+      "wallet": "0xc8c8d2a4838838e3199723ba87b534bdfa8bd5e6",
+      "weight": "2264366238922675",
+      "portion": "3652921120123739032"
+    }
+  ]
+}
