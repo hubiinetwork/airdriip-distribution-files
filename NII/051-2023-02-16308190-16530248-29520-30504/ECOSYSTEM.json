@@ -1,0 +1,17 @@
+{
+  "amount": "300000000",
+  "l1StartBlock": "16308190",
+  "l1EndBlock": "16530248",
+  "l2StartBlock": "29520",
+  "l2EndBlock": "30504",
+  "apportion": [
+    {
+      "wallet": "0x7dF499Ef3D61aDf05f5eaCc4ffb0220274101dAc",
+      "portion": "193740519000000000000000"
+    },
+    {
+      "wallet": "0xF12A08011Bd98b8bF52ee1F905AD728564Cc8aD4",
+      "portion": "106259481000000000000000"
+    }
+  ]
+}
